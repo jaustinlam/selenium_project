@@ -1,0 +1,12 @@
+1488131328819	geckodriver	INFO	Listening on 127.0.0.1:51030
+1488131329907	mozprofile::profile	INFO	Using profile path /var/folders/6y/q4z10sld16x388mmhfmd1bz40000gq/T/rust_mozprofile.d5odODh5fTZ2
+1488131329909	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488131329911	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51039
+1488131330458	Marionette	INFO	Listening on port 51039
+2017-02-26 09:49:04.263 firefox-bin[2232:53675] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-02-26 09:49:04.312 firefox-bin[2232:53675] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1488131450319	geckodriver	INFO	Listening on 127.0.0.1:51094
+1488131451377	mozprofile::profile	INFO	Using profile path /var/folders/6y/q4z10sld16x388mmhfmd1bz40000gq/T/rust_mozprofile.zZ62qERFwZmF
+1488131451379	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488131451381	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51100
+1488131451916	Marionette	INFO	Listening on port 51100
